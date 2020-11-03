@@ -14,5 +14,5 @@
          setTimeout(() => {
            console.log("End");
            document.getElementById("preloader").style.display = "none";
-         }, 10000 /* Change time here */);
+         }, 6000 /* Change time here */);
          //Preloader Ends
